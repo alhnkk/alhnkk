@@ -1,6 +1,10 @@
-<h1>Hi 👋 My name is Alihan Küçükkaya</h1>
-<h3>Freelance Front End Developer</h3>
-🌍  I'm based in İstanbul* ✉️  You can contact me at [alhnkk@gmail.com](mailto:alhnkk@gmail.com)* 🚀  I'm currently working on [My Blog](http://https://myblog-vert.vercel.app/)* 🧠  I'm learning React Native* 🤝  I'm open to collaborating on Front End Development
+#<h1>Hi 👋 My name is Alihan Küçükkaya</h1>
+##Freelance Front End Developer
+🌍  I'm based in İstanbul
+✉️  You can contact me at [alhnkk@gmail.com](mailto:alhnkk@gmail.com)
+🚀  I'm currently working on [My Blog](http://https://myblog-vert.vercel.app/)* 
+🧠  I'm learning React Native* 
+🤝  I'm open to collaborating on Front End Development
 
 ### Skills
 
