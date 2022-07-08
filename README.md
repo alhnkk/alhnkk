@@ -1,4 +1,4 @@
-h1>Hi 👋 My name is Alihan Küçükkaya</h1>
+    <h1>Hi 👋 My name is Alihan Küçükkaya</h1>
     <h3>Freelance Front End Developer</h3>
   <p>🌍 I'm based in İstanbul </p>
   <p>✉️ You can contact me at [alhnkk@gmail.com](mailto:alhnkk@gmail.com)</p>
